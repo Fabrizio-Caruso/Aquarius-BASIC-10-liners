@@ -1,0 +1,8 @@
+10 print peek(14350)*-(peek(14351)<71)
+
+20 for x=1 to 45
+
+30 next x
+
+40 goto 10
+
